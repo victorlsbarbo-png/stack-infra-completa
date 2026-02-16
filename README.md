@@ -32,11 +32,3 @@ Acesse a pasta desejada e suba os serviços:
 
 Bash
 docker-compose up -d
-🔗 Documentação de Apoio
-Abaixo, os links oficiais para suporte e configuração avançada:
-
-📘 Manual Oficial BookStack
-
-🛠️ Comandos Administrativos (Artisan)
-
-🐳 Documentação da Imagem Docker (LSIO)
