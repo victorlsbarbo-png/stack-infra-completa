@@ -1,4 +1,4 @@
-# Desafio de Infraestrutura - BSN
+# Infraestrutura completa 
 
 Este repositório contém a orquestração completa da infraestrutura, monitoramento e esteira de CI/CD para o projeto **BookStack**. O objetivo é garantir um ambiente resiliente, automatizado e com alta disponibilidade para a gestão de documentação técnica.
 
